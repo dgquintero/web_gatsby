@@ -1,0 +1,15 @@
+{
+    "slug": "presencial",
+    "title": "Others",
+    "description": "Talleres, diplomados y conferencias en las que he participado",
+    "items":[
+        {
+            "name": "Escuela Argentinca de Nuevas Tecnologías",
+            "degree": "Carrera Data Scientist"
+        },
+        {
+            "name": "PICE Australia",
+            "degree": "Intermediate - Advance level of English"
+        }
+    ]
+}

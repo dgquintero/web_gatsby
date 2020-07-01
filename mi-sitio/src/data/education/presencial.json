@@ -1,0 +1,15 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Fromación académica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name": "Holberton School",
+            "degree": "Full Stack Software development"
+        },
+        {
+            "name": "Universidad Javeriana Cali",
+            "degree": "Ing. Industrial"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "slug": "Online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educación en internet",
+    "items":[
+        {
+            "name": "IBM",
+            "course": "Machine learning with python",
+            "credential": "https://www.coursera.org/account/accomplishments/verify/JCPZ99SVLA9T"
+        },
+        {
+            "name": "DataCamp",
+            "course": "Importing & Cleaning Data in R: Case Studies",
+            "credential": "https://www.datacamp.com/statement-of-accomplishment/course/de3277bad0c06b4eace3f6dc7f537b5dfcf8876a"
+        }
+    ]
+}
